@@ -1,7 +1,7 @@
 <h1 align="center">Mesto</h1>
 Страница для проверки результатов работы
 
-https://ditry-sd.github.io/dist/
+https://ditry-sd.github.io/distmesto/
 
 ## Использованные технологии
 
